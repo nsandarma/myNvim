@@ -15,7 +15,7 @@ myNvim adalah teks editor Neovim ***super ringan*** yang telah saya konfigurasi 
 - prettier
 - pyright LSP
 
-[![image](img/screenshot.png)
+[![image](screenshot/screenshot.png)
 
 
 
