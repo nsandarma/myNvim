@@ -25,7 +25,7 @@ myNvim adalah teks editor Neovim ***super ringan*** yang telah saya konfigurasi 
 2. Install Git
 3. Jalankan perintah :
 ```
-git clone https://github.com/AstroNvim/AstroNvim "$env:LOCALAPPDATA\nvim"
+git clone https://github.com/nsandarma/myNvim "$env:LOCALAPPDATA\nvim"
 nvim +PackerSync
 ```
 
